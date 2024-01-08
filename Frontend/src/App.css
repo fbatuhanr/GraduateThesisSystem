@@ -1,0 +1,16 @@
+.rti--container {
+    background-color: #f9fafb !important;
+}
+
+.rti--container .rti--tag {
+    background-color: #d1d5db;
+    color: #111827 !important;
+}
+
+.dark .rti--container {
+    background-color: #374151 !important;
+}
+.dark .rti--container .rti--tag {
+    background-color: #6b7280;
+    color: #fff !important;
+}
