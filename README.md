@@ -1,0 +1,1 @@
+### Welcome to the Graduate Thesis System, a comprehensive and user-friendly platform designed to streamline the process of managing and accessing academic theses. Whether you're an administrator, author, or a curious individual seeking insightful research, our system is tailored to meet your needs.
