@@ -5,7 +5,7 @@
 # Front-end <a href="https://github.com/fbatuhanr/GraduateThesisSystem/tree/main/Frontend">(Click here for files)</a>: React (Vite, Router dom, Redux Persist) + Tailwindcss
 <hr/>
 # Back-end <a href="https://github.com/fbatuhanr/GraduateThesisSystem/tree/main/Backend">(Click here for files)</a>: NodeJS (Express, Nodemon, Mysql)
-<br/>
+<hr/>
 ## SQL Codes (MySQL): <a href="https://github.com/fbatuhanr/GraduateThesisSystem/blob/main/Backend/server.js" target="_blank">Click Here</a>
 <br/>
 ### Exported SQL File: <a href="https://github.com/fbatuhanr/GraduateThesisSystem/blob/main/Export/GraduateThesisSystem.sql" target="_blank">Click Here</a>
