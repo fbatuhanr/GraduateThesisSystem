@@ -6,7 +6,7 @@
 <hr/>
 # Back-end <a href="https://github.com/fbatuhanr/GraduateThesisSystem/tree/main/Backend">(Click here for files)</a>: NodeJS (Express, Nodemon, Mysql)
 <hr/>
-## SQL Codes (MySQL): <a href="https://github.com/fbatuhanr/GraduateThesisSystem/blob/main/Backend/server.js" target="_blank">Click Here</a>
+## NodeJS & SQL Codes (MySQL): <a href="https://github.com/fbatuhanr/GraduateThesisSystem/blob/main/Backend/server.js" target="_blank">Click Here</a>
 <br/>
 ### Exported SQL File: <a href="https://github.com/fbatuhanr/GraduateThesisSystem/blob/main/Export/GraduateThesisSystem.sql" target="_blank">Click Here</a>
 <hr/>
